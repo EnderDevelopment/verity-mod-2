@@ -1,0 +1,10 @@
+{
+  "item.verity.verity_lens": "Verity Lens",
+  "item.verity.verity_lens.tooltip": "Reveal the truth of a block",
+  "commands.verity.give.success": "Gave a Verity Lens to %s",
+  "commands.verity.give.failure": "Only a player can receive a Verity Lens.",
+  "verity.inspect.header": "Verity inspection",
+  "verity.inspect.block": "Block: %s",
+  "verity.inspect.hardness": "Hardness: %s",
+  "verity.inspect.position": "Position: %s"
+}

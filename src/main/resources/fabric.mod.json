@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "verity",
+  "version": "${version}",
+  "name": "Verity",
+  "description": "Inspect the truth of the blocks around you.",
+  "authors": ["EnderDevelopment"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.enderdevelopment.verity.VerityMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
